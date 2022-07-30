@@ -1,0 +1,15 @@
+.form {
+  padding: 1rem;
+
+  input, textarea {
+    border: 1px solid #c7c7c7;
+    padding: 0.5rem;
+    display: block;
+    width: calc(100% - 1rem);
+  }
+
+  .control {
+    margin: 1rem 0;
+    width: 100%;
+  }
+}

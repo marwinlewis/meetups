@@ -1,0 +1,17 @@
+.logo {
+  padding: 0 1rem;
+}
+
+button {
+  background-color: #850d69;
+  padding: 0.5rem 2rem;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+
+  &:active {
+    position: relative;
+    right: -1px;
+    bottom: -1px;
+  }
+}
