@@ -1,3 +1,10 @@
+A React demo Meetups app
+
+Screenshots:
+![image](https://user-images.githubusercontent.com/13946231/182122085-1f0156fd-f27e-46ba-b18a-3b1e3b952ebc.png)
+![image](https://user-images.githubusercontent.com/13946231/182122162-33aac303-b908-4b78-b4dd-3c79910c8229.png)
+![image](https://user-images.githubusercontent.com/13946231/182122216-433e5317-200b-438d-9757-8460df231ce7.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
